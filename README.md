@@ -36,7 +36,7 @@ configure rules `config/web.php`
 
 - Get       http://localhost:8080/v1/buahhs or http://localhost:8080/v1/buahhs/{id}
 - Post      http://localhost:8080/v1/buahhs
-- Put       http://localhost:8080/v1/buahhs{id}
+- Put       http://localhost:8080/v1/buahhs/{id}
 - Delete    http://localhost:8080/v1/buahhs/{id}
 
 
